@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2BrokerTask", "B2BrokerTask\B2BrokerTask.csproj", "{EE7BCCF4-30E7-4EF1-960B-C1004CE22059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageReceiver", "MessageReceiver\MessageReceiver.csproj", "{6D52374C-6CC8-44E9-9B9B-27010DD090CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7BCCF4-30E7-4EF1-960B-C1004CE22059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7BCCF4-30E7-4EF1-960B-C1004CE22059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7BCCF4-30E7-4EF1-960B-C1004CE22059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7BCCF4-30E7-4EF1-960B-C1004CE22059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D52374C-6CC8-44E9-9B9B-27010DD090CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D52374C-6CC8-44E9-9B9B-27010DD090CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D52374C-6CC8-44E9-9B9B-27010DD090CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D52374C-6CC8-44E9-9B9B-27010DD090CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17EA2D01-7A2B-4338-A033-808C56C6A4CC}
+	EndGlobalSection
+EndGlobal
